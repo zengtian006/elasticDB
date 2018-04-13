@@ -1,10 +1,10 @@
 #!/bin/bash
 
-HOME=/Users/tim-test/Development/elasticDB
+HOME=/home/ubuntu/elasticDB
 
 echo "HOME is set to $HOME"
 
-SCRIPT_HOME=/Users/tim-test/Development/elasticDB/scripts
+SCRIPT_HOME=/home/ubuntu/elasticDB/scripts
 
 echo "SCRIPT_HOME is set to $SCRIPT_HOME"
 
